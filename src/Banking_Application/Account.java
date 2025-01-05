@@ -30,7 +30,7 @@ public class Account {
             System.out.println("Current Balance is "+this.Balance);
         }
     }
-
+/*
     public void setNumber(String number){
         Number = number;
     }
@@ -65,5 +65,5 @@ public class Account {
     public String getPhoneNumber(){
         return PhoneNumber;
     }
-
+*/
 }
